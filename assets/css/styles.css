@@ -53,6 +53,8 @@ header {
     font-weight: 500;
     transition: all 0.3s;
     position: relative;
+    padding: 0.5rem 1rem;
+    border-radius: 25px;
 }
 
 .navbar a::after {
@@ -70,15 +72,28 @@ header {
     width: 100%;
 }
 
+.navbar a:hover {
+    background: rgba(255, 0, 110, 0.1);
+}
+
 .navbar a.active {
-    color: #ff006e;
+    color: #fff;
+    background: linear-gradient(135deg, #ff006e, #8338ec);
     text-shadow: 0 0 10px rgba(255, 0, 110, 0.8);
     animation: activeNavPulse 1s infinite;
+    box-shadow: 0 0 20px rgba(255, 0, 110, 0.5), inset 0 0 10px rgba(255, 255, 255, 0.2);
+    font-weight: 600;
 }
 
 @keyframes activeNavPulse {
-    0%, 100% { text-shadow: 0 0 10px rgba(255, 0, 110, 0.8); }
-    50% { text-shadow: 0 0 20px rgba(255, 0, 110, 1); }
+    0%, 100% { 
+        text-shadow: 0 0 10px rgba(255, 0, 110, 0.8);
+        box-shadow: 0 0 20px rgba(255, 0, 110, 0.5), inset 0 0 10px rgba(255, 255, 255, 0.2);
+    }
+    50% { 
+        text-shadow: 0 0 20px rgba(255, 0, 110, 1);
+        box-shadow: 0 0 30px rgba(255, 0, 110, 0.8), inset 0 0 15px rgba(255, 255, 255, 0.3);
+    }
 }
 
 /* Sections */
