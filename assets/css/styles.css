@@ -98,8 +98,8 @@ header {
 
 /* Sections */
 section {
-    margin-top: 3rem;
-    padding: 3rem 5%;
+    margin-top: 0;
+    padding: 1rem 5%;
     scroll-margin-top: 6rem;
     transition: all 0.3s;
 }
