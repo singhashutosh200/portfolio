@@ -98,9 +98,9 @@ header {
 
 /* Sections */
 section {
-    margin-top: 6rem;
-    padding: 4rem 5%;
-    scroll-margin-top: 10rem;
+    margin-top: 3rem;
+    padding: 3rem 5%;
+    scroll-margin-top: 6rem;
     transition: all 0.3s;
 }
 
