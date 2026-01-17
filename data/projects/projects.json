@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "title": "E-Commerce Testing Suite",
+      "description": "Comprehensive test automation for an e-commerce platform using Selenium and Python. Covers 200+ test cases.",
+      "image": "https://images.unsplash.com/photo-1460925895917-aaf4b0c56e3e?w=400&h=300&fit=crop",
+      "link": "#"
+    },
+    {
+      "title": "API Testing Framework",
+      "description": "Built a robust API testing framework using Postman and REST Assured. Manages 50+ API endpoints.",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=300&fit=crop",
+      "link": "#"
+    },
+    {
+      "title": "Mobile App QA",
+      "description": "Automated mobile testing for iOS and Android applications using Appium. Achieved 95% test coverage.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=300&fit=crop",
+      "link": "#"
+    },
+    {
+      "title": "Performance Testing",
+      "description": "Load and performance testing using JMeter for a high-traffic web application. Handled 10k+ concurrent users.",
+      "image": "https://images.unsplash.com/photo-1551434494-5465bb1ae15f?w=400&h=300&fit=crop",
+      "link": "#"
+    },
+    {
+      "title": "CI/CD Integration",
+      "description": "Implemented Jenkins CI/CD pipeline with automated test execution. Reduced deployment time by 40%.",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=300&fit=crop",
+      "link": "#"
+    },
+    {
+      "title": "Test Data Management",
+      "description": "Developed test data generation and management system for complex database scenarios.",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=300&fit=crop",
+      "link": "#"
+    }
+  ]
+}

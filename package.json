@@ -1,0 +1,22 @@
+{
+  "name": "ashutosh-portfolio",
+  "version": "2.0.0",
+  "description": "Modern portfolio website for Ashutosh Singh - Senior Quality Analyst",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "keywords": [
+    "portfolio",
+    "quality-analyst",
+    "test-automation"
+  ],
+  "author": "Ashutosh Singh",
+  "license": "MIT",
+  "dependencies": {
+    "typed.js": "^2.0.11",
+    "scrollreveal": "^4.0.9",
+    "vanilla-tilt": "^1.8.0",
+    "emailjs-com": "^3.2.0"
+  }
+}

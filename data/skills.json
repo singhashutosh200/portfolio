@@ -1,0 +1,28 @@
+{
+  "skills": [
+    {
+      "category": "Test Automation",
+      "items": ["Selenium WebDriver", "Robot Framework", "Pytest", "Test NG"]
+    },
+    {
+      "category": "API Testing",
+      "items": ["Postman", "REST APIs", "JSON/XML", "API Status Codes"]
+    },
+    {
+      "category": "Tools & Technologies",
+      "items": ["JIRA", "TestRail", "Jenkins", "Git"]
+    },
+    {
+      "category": "Programming Languages",
+      "items": ["Python", "Java", "SQL", "JavaScript"]
+    },
+    {
+      "category": "Testing Types",
+      "items": ["Functional Testing", "Regression Testing", "Smoke Testing", "Performance Testing"]
+    },
+    {
+      "category": "Soft Skills",
+      "items": ["Problem Solving", "Communication", "Team Leadership", "Documentation"]
+    }
+  ]
+}
